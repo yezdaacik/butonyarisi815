@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\bin\Debug\buton yarışı 815.exe.config
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\bin\Debug\buton yarışı 815.exe
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\bin\Debug\buton yarışı 815.pdb
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton yarışı 815.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton yarışı 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton_yarışı_815.Form1.resources
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton_yarışı_815.Properties.Resources.resources
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton yarışı 815.csproj.GenerateResource.cache
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton yarışı 815.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton yarışı 815.exe
+C:\Users\User\source\repos\buton yarışı 815\buton yarışı 815\obj\Debug\buton yarışı 815.pdb
